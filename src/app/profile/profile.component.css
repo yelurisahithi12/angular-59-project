@@ -1,0 +1,23 @@
+.blue {
+    color: blue;
+  }
+  
+  .orange {
+    color:coral;
+  }
+  
+  .green {
+    color: green;
+  }
+  .center-content {
+    text-align: center;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 0.5px black;
+    padding: 5px;
+    width: fit-content;
+    margin-left: 38%;
+   
+  }
+  
+  
